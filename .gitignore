@@ -3,6 +3,10 @@
 .gemini
 .opencode
 
+# Electron build output
+dist-electron/
+release/
+
 # IDE and Editors
 **/.idea/
 **/.vscode/
